@@ -1,0 +1,162 @@
+    BSSID 1                 : 72:13:01:2f:54:e5
+         Signal             : 3%  
+    BSSID 2                 : ae:70:5d:a0:26:f9
+         Signal             : 9%  
+    BSSID 3                 : 12:36:aa:f4:81:8f
+         Signal             : 9%  
+            BSSID: 10:36:aa:fb:81:8b,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8d,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8e,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8f,  Band: 6 GHz,  Channel: 165
+    BSSID 4                 : 12:36:aa:f4:81:8d
+         Signal             : 9%  
+            BSSID: 10:36:aa:fb:81:8b,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8d,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8e,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8f,  Band: 6 GHz,  Channel: 165
+    BSSID 5                 : dc:eb:69:45:f7:7c
+         Signal             : 15%  
+    BSSID 6                 : ae:70:5d:a0:24:f4
+         Signal             : 27%  
+    BSSID 7                 : a6:70:5d:a0:24:f4
+         Signal             : 30%  
+    BSSID 8                 : f6:c1:14:fc:7a:68
+         Signal             : 33%  
+    BSSID 9                 : ae:70:5d:94:8e:a6
+         Signal             : 48%  
+    BSSID 10                 : 12:36:aa:ed:81:8e
+         Signal             : 48%  
+            BSSID: 10:36:aa:fb:81:8b,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8d,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8e,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8f,  Band: 6 GHz,  Channel: 165
+    BSSID 11                 : b6:70:5d:a0:26:f8
+         Signal             : 54%  
+    BSSID 12                 : ae:70:5d:a0:26:f8
+         Signal             : 54%  
+    BSSID 13                 : a6:70:5d:a0:26:f8
+         Signal             : 54%  
+    BSSID 14                 : ae:70:5d:a0:24:f3
+         Signal             : 57%  
+    BSSID 15                 : b6:70:5d:ab:7d:84
+         Signal             : 57%  
+    BSSID 16                 : ae:70:5d:ab:7d:84
+         Signal             : 60%  
+    BSSID 17                 : b6:70:5d:91:db:95
+         Signal             : 60%  
+    BSSID 18                 : ae:70:5d:91:db:95
+         Signal             : 60%  
+    BSSID 19                 : 0a:a7:c0:4d:19:d5
+         Signal             : 63%  
+    BSSID 20                 : 22:ef:bd:ff:17:b2
+         Signal             : 69%  
+    BSSID 21                 : f6:c1:14:f5:7a:6f
+         Signal             : 72%  
+    BSSID 22                 : b6:70:5d:94:8e:a5
+         Signal             : 72%  
+    BSSID 23                 : b6:70:5d:92:87:48
+         Signal             : 77%  
+    BSSID 24                 : ae:70:5d:91:db:94
+         Signal             : 77%  
+    BSSID 25                 : b6:70:5d:a0:04:8e
+         Signal             : 85%  
+    BSSID 26                 : ae:70:5d:a0:04:8e
+         Signal             : 85%  
+    BSSID 27                 : b6:70:5d:96:2a:a1
+         Signal             : 85%  
+    BSSID 28                 : ae:70:5d:96:2a:a1
+         Signal             : 85%  
+    BSSID 29                 : b2:70:5d:96:2a:a1
+         Signal             : 85%  
+    BSSID 30                 : ae:70:5d:a9:73:72
+         Signal             : 90%  
+    BSSID 31                 : b6:70:5d:a9:73:72
+         Signal             : 91%  
+    BSSID 1                 : 72:13:01:2f:54:e4
+         Signal             : 3%  
+            BSSID: 70:13:01:36:54:e5,  Band: 6 GHz,  Channel: 197
+    BSSID 2                 : 12:36:aa:f4:81:8c
+         Signal             : 9%  
+            BSSID: 10:36:aa:fb:81:8b,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8d,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8e,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8f,  Band: 6 GHz,  Channel: 165
+    BSSID 3                 : aa:70:5d:a0:26:f9
+         Signal             : 24%  
+    BSSID 4                 : aa:70:5d:a0:24:f4
+         Signal             : 33%  
+    BSSID 5                 : f6:c1:14:fc:7a:6d
+         Signal             : 33%  
+    BSSID 6                 : aa:70:5d:ab:7d:84
+         Signal             : 60%  
+    BSSID 7                 : aa:70:5d:91:db:95
+         Signal             : 60%  
+    BSSID 8                 : aa:70:5d:92:87:49
+         Signal             : 66%  
+    BSSID 9                 : 0a:a7:c0:4d:19:d2
+         Signal             : 75%  
+    BSSID 10                 : aa:70:5d:a0:04:8e
+         Signal             : 81%  
+    BSSID 11                 : aa:70:5d:a9:73:72
+         Signal             : 91%  
+    BSSID 12                 : aa:70:5d:94:8c:96
+         Signal             : 91%  
+    BSSID 1                 : 9c:c9:eb:c2:d9:9c
+         Signal             : 6%  
+    BSSID 1                 : 72:13:01:2f:54:e2
+         Signal             : 6%  
+            BSSID: 70:13:01:36:54:e3,  Band: 6 GHz,  Channel: 197
+    BSSID 1                 : f6:c1:14:fc:7a:6f
+         Signal             : 12%  
+    BSSID 2                 : b2:70:5d:91:db:95
+         Signal             : 36%  
+    BSSID 3                 : 0a:a7:c0:4d:19:d4
+         Signal             : 63%  
+    BSSID 4                 : b2:70:5d:a0:04:8e
+         Signal             : 79%  
+    BSSID 5                 : b2:70:5d:94:8c:96
+         Signal             : 85%  
+    BSSID 6                 : b2:70:5d:a9:73:72
+         Signal             : 85%  
+    BSSID 7                 : fa:5e:42:f0:62:26
+         Signal             : 18%  
+    BSSID 1                 : a8:70:5d:a0:24:f4
+         Signal             : 18%  
+    BSSID 2                 : a8:70:5d:a0:24:f3
+         Signal             : 54%  
+    BSSID 1                 : a8:70:5d:a0:26:f9
+         Signal             : 27%  
+    BSSID 2                 : a8:70:5d:a0:26:f8
+         Signal             : 54%  
+    BSSID 1                 : f6:c1:14:fc:7a:6b
+         Signal             : 30%  
+    BSSID 2                 : f6:c1:14:f5:7a:6a
+         Signal             : 69%  
+    BSSID 1                 : dc:eb:69:45:f7:71
+         Signal             : 42%  
+    BSSID 1                 : a8:70:5d:94:8e:a6
+         Signal             : 51%  
+    BSSID 1                 : 12:36:aa:ed:81:89
+         Signal             : 54%  
+            BSSID: 10:36:aa:fb:81:8b,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8d,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8e,  Band: 6 GHz,  Channel: 165
+            BSSID: 10:36:aa:fb:81:8f,  Band: 6 GHz,  Channel: 165
+    BSSID 1                 : a8:70:5d:91:db:95
+         Signal             : 60%  
+    BSSID 1                 : 0a:a7:c0:46:19:d7
+         Signal             : 66%  
+    BSSID 2                 : 0a:a7:c0:4d:19:d0
+         Signal             : 75%  
+    BSSID 1                 : fa:5e:42:e9:62:21
+         Signal             : 72%  
+    BSSID 1                 : a8:70:5d:96:2a:a2
+         Signal             : 75%  
+    BSSID 2                 : a8:70:5d:96:2a:a1
+         Signal             : 85%  
+    BSSID 1                 : a8:70:5d:a0:04:8e
+         Signal             : 85%  
+    BSSID 1                 : a8:70:5d:94:8c:96
+         Signal             : 90%  
+    BSSID 1                 : a8:70:5d:a9:73:72
+         Signal             : 91%  
