@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindMyKuro Finder</string>
+    <string name="start_finder">Start Finder</string>
+    <string name="stop_finder">Stop Finder</string>
+    <string name="status_scanning">Scanning for FindMyKuro beacons...</string>
+    <string name="status_stopped">Finder stopped</string>
+    <string name="notification_channel_name">FindMyKuro Finder Service</string>
+    <string name="notification_channel_description">Scans for FindMyKuro beacons and reports locations</string>
+</resources>
